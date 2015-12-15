@@ -1,0 +1,1 @@
+Some Vagrant pre-set based on what I used on one of my jobs to run node-gyp painless.
